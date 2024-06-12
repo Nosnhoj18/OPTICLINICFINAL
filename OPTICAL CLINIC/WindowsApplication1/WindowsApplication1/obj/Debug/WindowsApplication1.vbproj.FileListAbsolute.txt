@@ -1,0 +1,80 @@
+C:\Users\MY PC\Desktop\DentalClinic\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\MY PC\Desktop\DentalClinic\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\MY PC\Desktop\DentalClinic\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\MY PC\Desktop\DentalClinic\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\MY PC\Desktop\DentalClinic\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\MY PC\Desktop\DentalClinic\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\MY PC\Desktop\DentalClinic\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\MY PC\Desktop\DentalClinic\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\MY PC\Desktop\DentalClinic\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\MY PC\Desktop\DentalClinic\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LoginForm.resources
+C:\Users\MY PC\Desktop\DentalClinic\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.SignupForm.resources
+C:\Users\DELL\Desktop\DentalClinicc\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\DELL\Desktop\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\DELL\Desktop\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\DELL\Desktop\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\DELL\Desktop\DentalClinicc\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\DELL\Desktop\DentalClinicc\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\DELL\Desktop\DentalClinicc\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\DELL\Desktop\DentalClinicc\WindowsApplication1\WindowsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\DELL\Desktop\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminInfoForm.resources
+C:\Users\DELL\Desktop\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AppointmentForm.resources
+C:\Users\DELL\Desktop\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.DashboardForm.resources
+C:\Users\DELL\Desktop\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LoginForm.resources
+C:\Users\DELL\Desktop\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\DELL\Desktop\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AddPatientForm.resources
+C:\Users\DELL\Desktop\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.PatientlogsForm.resources
+C:\Users\DELL\Desktop\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.SignupForm.resources
+C:\Users\DELL\Desktop\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Acer\Desktop\DentalClinicc\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Acer\Desktop\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Acer\Desktop\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Acer\Desktop\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Acer\Desktop\DentalClinicc\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Acer\Desktop\DentalClinicc\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Acer\Desktop\DentalClinicc\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Acer\Desktop\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminInfoForm.resources
+C:\Users\Acer\Desktop\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AppointmentForm.resources
+C:\Users\Acer\Desktop\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.DashboardForm.resources
+C:\Users\Acer\Desktop\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LoginForm.resources
+C:\Users\Acer\Desktop\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Acer\Desktop\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AddPatientForm.resources
+C:\Users\Acer\Desktop\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.PatientlogsForm.resources
+C:\Users\Acer\Desktop\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.SignupForm.resources
+C:\Users\Acer\Desktop\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\DentalClinicc\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\DentalClinicc\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\DentalClinicc\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\DentalClinicc\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminInfoForm.resources
+D:\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AppointmentForm.resources
+D:\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.DashboardForm.resources
+D:\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LoginForm.resources
+D:\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AddPatientForm.resources
+D:\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.PatientlogsForm.resources
+D:\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.SignupForm.resources
+D:\DentalClinicc\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\OPTICAL CLINIC\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\OPTICAL CLINIC\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\OPTICAL CLINIC\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\OPTICAL CLINIC\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\OPTICAL CLINIC\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\OPTICAL CLINIC\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\OPTICAL CLINIC\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\OPTICAL CLINIC\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\OPTICAL CLINIC\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AdminInfoForm.resources
+D:\OPTICAL CLINIC\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AppointmentForm.resources
+D:\OPTICAL CLINIC\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.DashboardForm.resources
+D:\OPTICAL CLINIC\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.LoginForm.resources
+D:\OPTICAL CLINIC\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\OPTICAL CLINIC\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AddPatientForm.resources
+D:\OPTICAL CLINIC\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.PatientlogsForm.resources
+D:\OPTICAL CLINIC\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.SignupForm.resources
+D:\OPTICAL CLINIC\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
